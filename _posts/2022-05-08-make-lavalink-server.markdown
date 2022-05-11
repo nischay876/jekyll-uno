@@ -41,12 +41,12 @@ To get started, you need to download the lavalink.jar and application.yml It’s
 There are 2 jars provided below, one is the original one from [freyacodes](https://github.com/freyacodes) and one custom one which has alot more features than the original one
 ## Lavalink Jar download
 - [Original Jar](https://github.com/freyacodes/Lavalink/releases/tag/3.4)
-> [`https://github.com/freyacodes/Lavalink/releases/tag/3.4`](https://github.com/freyacodes/Lavalink/releases/tag/3.4)
+ [`https://github.com/freyacodes/Lavalink/releases/tag/3.4`](https://github.com/freyacodes/Lavalink/releases/tag/3.4)
 
 - [Dev Jar](https://ci.fredboat.com/repository/download/Lavalink_Build/.lastSuccessful/Lavalink.jar?guest=1&branch=refs/heads/dev)
-> [`https://ci.fredboat.com/repository/download/Lavalink_Build/.lastSuccessful/Lavalink.jar?guest=1&branch=refs/heads/dev`](https://ci.fredboat.com/repository/download/Lavalink_Build/.lastSuccessful/Lavalink.jar?guest=1&branch=refs/heads/dev)
+ [`https://ci.fredboat.com/repository/download/Lavalink_Build/.lastSuccessful/Lavalink.jar?guest=1&branch=refs/heads/dev`](https://ci.fredboat.com/repository/download/Lavalink_Build/.lastSuccessful/Lavalink.jar?guest=1&branch=refs/heads/dev)
 - [Custom Jar](https://drive.google.com/file/d/1XTJMNUYzYTYOKBMzOAoqo8v28Sqe3O9V/view)
-> [`https://drive.google.com/file/d/1XTJMNUYzYTYOKBMzOAoqo8v28Sqe3O9V/view`](https://drive.google.com/file/d/1XTJMNUYzYTYOKBMzOAoqo8v28Sqe3O9V/view)
+ [`https://drive.google.com/file/d/1XTJMNUYzYTYOKBMzOAoqo8v28Sqe3O9V/view`](https://drive.google.com/file/d/1XTJMNUYzYTYOKBMzOAoqo8v28Sqe3O9V/view)
 
 ## application.yml download
 - [Lavalink Jar application.yml](https://github.com/freyacodes/Lavalink/blob/master/LavalinkServer/application.yml.example)
@@ -54,11 +54,11 @@ There are 2 jars provided below, one is the original one from [freyacodes](https
 
 Once you’ve downloaded the jar and application.yml file, you can simply edit the application.yml port and password to your preferences.
 Now last step is to move both into a single folder, then open a terminal to that folder using `cd`
-> [How to use cd in windows](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10/)
+ [How to use cd in windows](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10/)
 
-> [How to use cd in mac](https://www.macworld.com/article/221277/command-line-navigating-files-folders-mac-terminal.html)
+ [How to use cd in mac](https://www.macworld.com/article/221277/command-line-navigating-files-folders-mac-terminal.html)
 
-> [How to use cd in linux](https://linuxize.com/post/linux-cd-command/)
+ [How to use cd in linux](https://linuxize.com/post/linux-cd-command/)
 
 Then run it by doing java -jar Lavalink.jar or if you wanna limit it to only using X amount of ram you can do `java -XmxXG -jar Lavalink.jar` I.e. `java -Xmx2G -jar Lavalink.jar`
 and you should get an output similar to this:
